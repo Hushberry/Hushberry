@@ -68,8 +68,8 @@ Hands-on experience with real mail infrastructure:
 
 ## 📫 Contact
 
-- 🌐 Portfolio: https://netfusion.digital  
-- 📧 Email: administrator@netfusion.digital  
+- 🌐 Portfolio: https://netfusion-digital.web.app  
+- 📧 Email: uchegbuvincent4@gmail.com  
 
 ---
 
